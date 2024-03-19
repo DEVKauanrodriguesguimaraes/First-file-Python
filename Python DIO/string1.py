@@ -1,4 +1,4 @@
-## Conhecendo métodos utéis na classe string
+## Conhecendo métodos úteis na classe string
 nome = "kaUan"
 print(nome.upper())
 print(nome.lower())
